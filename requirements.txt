@@ -1,0 +1,16 @@
+# --- Experiment tracking ---
+mlflow
+wandb
+
+# --- Config management ---
+hydra-core
+
+# --- Feature engineering ---
+category_encoders
+
+# --- Code quality ---
+flake8
+isort
+
+# --- Kaggle CLI (for submitting notebooks and competition results) ---
+kaggle==2.2.2
