@@ -10,13 +10,13 @@ GUI and to manage the VS Code extensions used in the development environment.
 The setup has been tested on Ubuntu running under WSL2 with Docker.
 
 - A host with an NVIDIA GPU and a working NVIDIA driver
-- At least 80 GB of free storage available; 100 GB or more is recommended
+- At least 75 GB of free storage available; 100 GB or more is recommended
 - Docker Engine and the Docker Compose plugin installed in the WSL2 environment
 - The NVIDIA Container Toolkit installed and configured for Docker. Follow the
     installation instructions in the [NVIDIA Container Toolkit
     repository](https://github.com/NVIDIA/nvidia-container-toolkit), then verify
     that `nvidia-smi` works on the host.
-- VS Code with the Dev Containers extension installed
+- VS Code with the [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) extension installed
 - A Kaggle account
 
 ## Setup
