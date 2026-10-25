@@ -12,6 +12,7 @@
         "ms-toolsai.vscode-jupyter-cell-tags",
         "mhutchie.git-graph",
         "donjayamanne.githistory",
+        "ms-toolsai.datawrangler",
         "anthropic.claude-code",
         "openai.chatgpt"
       ],
